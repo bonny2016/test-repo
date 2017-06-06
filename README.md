@@ -1,2 +1,2 @@
 # test-repo
-a test repository
+hi! a test repository
